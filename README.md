@@ -19,9 +19,15 @@ The data used is an open source data by Instacart from 2017 and it is available 
 
 This project uses Excel and Python. The following python libraries were used:
 • Anaconda 3
+
 • Jupyter Notebook
+
 • Pandas
+
 • Seaborn
+
 • Matplotlib
+
 • Scipy
+
 • Numpy
