@@ -19,7 +19,7 @@ The dataset comprises of information on the following parameters:
 • departments
 
 
-The data used is an open source data by Instacart from 2017 and it is available here.
+The data used is an open source data by Instacart from 2017 and it is available [here](https://www.instacart.com/datasets/grocery-shopping-2017).
 
 
 ## Tools
